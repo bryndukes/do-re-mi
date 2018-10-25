@@ -1,2 +1,1 @@
-Foo: A thing, a thingy thing
 Adding a commit to master
